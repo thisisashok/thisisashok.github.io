@@ -1,3 +1,12 @@
 p{
     color:tomato;
 }
+.error-msg{
+    background-color: red;
+    color: white;
+
+}
+#success-msg{
+    background-color: green;
+    color: white;
+}
