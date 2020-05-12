@@ -1,5 +1,8 @@
 p{
     color:tomato;
+    background-color: greenyellow;
+    font-size: medium;
+    align-content: ;
 }
 .error-msg{
     background-color: red;
