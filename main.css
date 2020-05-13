@@ -1,8 +1,8 @@
-p{
+/*p{
     color:tomato;
-    background-color: greenyellow;
+    background-color:rgba(red, green, blue, alpha)
     font-size: medium;
-    align-content: ;
+    align-content: ; */
 }
 .error-msg{
     background-color: red;
@@ -12,4 +12,9 @@ p{
 #success-msg{
     background-color: green;
     color: white;
+}
+p{
+
+color: red;
+background-color: rgba(196, 71, 71);
 }
